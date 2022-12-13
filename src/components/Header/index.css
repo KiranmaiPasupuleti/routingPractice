@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.logo-size {
+  width: 40px;
+  height: 40px;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+.nav-link {
+  margin-right: 10px;
+  font-weight: bold;
+  text-decoration: none;
+}
